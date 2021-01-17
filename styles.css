@@ -7,6 +7,9 @@
     /*border: 1px solid cornflowerblue;*/
     padding: 20px 0;
     width: var(--menu-bar-width);
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
 
 #menu {
